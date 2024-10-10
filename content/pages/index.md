@@ -87,5 +87,5 @@ sections:
             url: /Projects
             size: medium
             variant: text
-            color: inherit
+            color: primary
 ---
