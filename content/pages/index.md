@@ -91,7 +91,7 @@ sections:
       to showcase my expertise in transforming data into valuable insights.
     items:
       - type: Card
-        title: First Item Title
+        title: Sales Data Analysis
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
