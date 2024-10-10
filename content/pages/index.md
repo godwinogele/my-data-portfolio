@@ -32,7 +32,9 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Technical Skills Overview
-    subtitle: The section subtitle
+    subtitle: >-
+      In this section, I highlight my core competencies and tools that enhance
+      my technical capabilities:
     items:
       - type: Card
         title: First Item Title
