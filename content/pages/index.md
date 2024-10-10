@@ -37,7 +37,7 @@ sections:
       my technical capabilities:
     items:
       - type: Card
-        title: First Item Title
+        title: Excel
         text: >
           Advanced skills in data manipulation, analysis, and visualization,
           enabling effective decision-making.
