@@ -90,6 +90,9 @@ sections:
             color: primary
   - type: CardsSection
     title: Cards Section Title
-    subtitle: The section subtitle
+    subtitle: >-
+      Feel free to reach out to me for collaborations, inquiries, or just to
+      connect! You can find me on LinkedIn or email me at
+      godwinogeleagwu@gmail.com.
     items: []
 ---
