@@ -43,7 +43,6 @@ sections:
           enabling effective decision-making.
         image:
           type: Image
-          url: /images/Excel.webp
           altText: First item image
         actions:
           - type: Button
