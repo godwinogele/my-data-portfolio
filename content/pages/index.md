@@ -94,13 +94,7 @@ sections:
           This section highlights my journey and the various projects I’ve
           worked on to showcase my expertise in transforming data into valuable
           insights.
-        actions:
-          - type: Button
-            label: Learn More
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
   - type: CardsSection
     title: Cards Section Title
     subtitle: The section subtitle
