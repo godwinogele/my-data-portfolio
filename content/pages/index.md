@@ -35,6 +35,13 @@ sections:
     subtitle: Featuring My Skills in Data Analysis and Visualization
     items:
       - type: Card
+        title: ''
+        text: >
+          This section highlights my journey and the various projects I’ve
+          worked on to showcase my expertise in transforming data into valuable
+          insights.
+        actions: []
+      - type: Card
         title: Sales Data Analysis Project
         image:
           type: Image
@@ -48,13 +55,6 @@ sections:
           - type: Button
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
-      - type: Card
-        title: ''
-        text: >
-          This section highlights my journey and the various projects I’ve
-          worked on to showcase my expertise in transforming data into valuable
-          insights.
-        actions: []
       - type: Card
         title: Power BI Masterclass
         image:
