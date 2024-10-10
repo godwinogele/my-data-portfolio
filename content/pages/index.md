@@ -35,7 +35,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Card Title
+        title: Sales Data Analysis Project
         image:
           type: Image
           url: /images/nextjs.svg
