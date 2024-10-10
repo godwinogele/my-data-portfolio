@@ -100,7 +100,7 @@ sections:
         actions:
           - type: Button
             label: LINKEDIN
-            url: /
+            url: 'https://www.linkedin.com/in/godwin-agwu'
             size: medium
             variant: text
             color: primary
