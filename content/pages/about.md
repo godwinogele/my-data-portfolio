@@ -5,13 +5,11 @@ sections:
   - type: HeroSection
     title: Example for H2 headline
     subtitle: This is the subtitle
-    text: >
-      This is **Markdown** *text*.
+    text: >+
+      I am a passionate tech professional with experience in **data analysis**,
+      **data visualization**, **accounting**, and **technical content writing**.
+      I enjoy solving complex problems and delivering innovative solutions. With
+      a strong foundation in various technologies, I aim to leverage my skills
+      in projects that make a difference.
 
-
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
 ---
