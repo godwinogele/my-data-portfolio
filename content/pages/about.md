@@ -3,13 +3,12 @@ title: About
 type: Page
 sections:
   - type: HeroSection
-    title: Example for H2 headline
+    title: About
     subtitle: This is the subtitle
-    text: >+
+    text: >
       I am a passionate tech professional with experience in **data analysis**,
       **data visualization**, **accounting**, and **technical content writing**.
       I enjoy solving complex problems and delivering innovative solutions. With
       a strong foundation in various technologies, I aim to leverage my skills
       in projects that make a difference.
-
 ---
