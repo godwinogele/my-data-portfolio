@@ -83,7 +83,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Learn More
+            label: MORE
             url: /
             size: medium
             variant: text
