@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: About
-    subtitle: Me
+    subtitle: ''
     text: >
       I am a passionate tech professional with experience in **data analysis**,
       **data visualization**, **accounting**, and **technical content writing**.
