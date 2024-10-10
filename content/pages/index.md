@@ -8,9 +8,11 @@ sections:
       Welcome to my portfolio! Here, you will find a showcase of my work,
       skills, and the projects I've undertaken in the tech field.
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      I am a passionate tech professional with experience in **data analysis**,
+      **data visualization**, **accounting**, and **technical content writing**.
+      I enjoy solving complex problems and delivering innovative solutions. With
+      a strong foundation in various technologies, I aim to leverage my skills
+      in projects that make a difference.
     actions:
       - type: Button
         label: Start Building
