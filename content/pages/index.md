@@ -89,7 +89,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Item Title
+        title: ''
         text: >
           This section highlights my journey and the various projects I’ve
           worked on to showcase my expertise in transforming data into valuable
