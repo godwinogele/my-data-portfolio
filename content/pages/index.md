@@ -32,7 +32,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Highlighted Projects
-    subtitle: ''
+    subtitle: Featuring My Skills in Data Analysis and Visualization
     items:
       - type: Card
         title: Sales Data Analysis Project
