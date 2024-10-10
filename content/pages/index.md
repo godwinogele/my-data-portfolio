@@ -86,7 +86,9 @@ sections:
             color: primary
   - type: CardsSection
     title: Featured Projects
-    subtitle: The section subtitle
+    subtitle: >-
+      This section highlights my journey and the various projects I’ve worked on
+      to showcase my expertise in transforming data into valuable insights.
     items:
       - type: Card
         title: First Item Title
