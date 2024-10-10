@@ -43,7 +43,7 @@ sections:
           enabling effective decision-making.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/Excel.webp
           altText: First item image
         actions:
           - type: Button
