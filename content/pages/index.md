@@ -106,7 +106,7 @@ sections:
             color: primary
           - type: Button
             label: GITHUB
-            url: 'https://www.linkedin.com/in/godwin-agwu'
+            url: 'https://github.com/godwinogele'
             size: medium
             variant: text
             color: primary
