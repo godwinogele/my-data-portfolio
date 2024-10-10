@@ -84,7 +84,7 @@ sections:
         actions:
           - type: Button
             label: MORE
-            url: /
+            url: /Projects
             size: medium
             variant: text
             color: primary
