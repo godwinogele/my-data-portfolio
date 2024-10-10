@@ -95,7 +95,7 @@ sections:
       connect! You can email me at godwinogeleagwu@gmail.com.
     items:
       - type: Card
-        title: Item Title
+        title: ''
         text: ''
         actions:
           - type: Button
