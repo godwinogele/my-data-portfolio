@@ -41,10 +41,9 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          In this project, I analyzed sales data using SQL and visualized the
+          results with Power BI. I created detailed reports and dashboards that
+          helped in making informed business decisions.
         actions:
           - type: Button
             label: Read the Docs
