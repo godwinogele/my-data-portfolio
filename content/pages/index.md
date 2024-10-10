@@ -70,10 +70,9 @@ sections:
             color: primary
       - type: Card
         title: Third Item Title
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Basic SQL skills for querying databases and performing data extraction
+          to support analysis.
         image:
           type: Image
           url: /images/ts.svg
