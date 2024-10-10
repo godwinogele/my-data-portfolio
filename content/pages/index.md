@@ -85,7 +85,7 @@ sections:
             variant: text
             color: primary
   - type: CardsSection
-    title: Highlighted O
+    title: Featured Projects
     subtitle: The section subtitle
     items:
       - type: Card
