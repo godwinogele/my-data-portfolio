@@ -85,7 +85,7 @@ sections:
           - type: Button
             label: MORE
             url: /Projects
-            size: large
+            size: medium
             variant: text
             color: primary
 ---
