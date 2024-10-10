@@ -96,7 +96,10 @@ sections:
           explicabo.
         image:
           type: Image
-          altText: Item image
+          altText: >-
+            This section highlights my journey and the various projects I’ve
+            worked on to showcase my expertise in transforming data into
+            valuable insights.
         actions:
           - type: Button
             label: Learn More
