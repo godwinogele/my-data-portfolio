@@ -94,12 +94,6 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
-        image:
-          type: Image
-          altText: >-
-            This section highlights my journey and the various projects I’ve
-            worked on to showcase my expertise in transforming data into
-            valuable insights.
         actions:
           - type: Button
             label: Learn More
