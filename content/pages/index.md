@@ -31,7 +31,7 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Highlighted Projects
+    title: Projects and Achievements
     subtitle: Featuring My Skills in Data Analysis and Visualization
     items:
       - type: Card
