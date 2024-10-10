@@ -69,7 +69,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Third Item Title
+        title: SQL
         text: >
           Basic SQL skills for querying databases and performing data extraction
           to support analysis.
