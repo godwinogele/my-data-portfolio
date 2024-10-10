@@ -45,7 +45,8 @@ sections:
           type: Image
           altText: First item image
           url: >-
-            /images/Microsoft-Excel-icon-design-on-transparent-background-PNG.png
+            /images/Microsoft-Excel-icon-design-on-transparent-background-PNG
+            (1).png
         actions:
           - type: Button
             label: ''
