@@ -92,10 +92,11 @@ sections:
     items:
       - type: Card
         title: Sales Data Analysis
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          In this project, I utilized SQL to extract and analyze sales data,
+          followed by visualizing the findings with Power BI. The insights
+          generated from this analysis supported informed decision-making and
+          strategic planning for the business.
         image:
           type: Image
           url: /images/nextjs.svg
