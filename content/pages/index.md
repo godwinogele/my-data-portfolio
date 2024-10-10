@@ -104,4 +104,10 @@ sections:
             size: medium
             variant: text
             color: primary
+          - type: Button
+            label: Learn more
+            url: 'https://www.linkedin.com/in/godwin-agwu'
+            size: medium
+            variant: text
+            color: primary
 ---
