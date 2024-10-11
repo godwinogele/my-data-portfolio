@@ -21,6 +21,13 @@
                 "label": "Projects",
                 "url": "/.",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "url": "/",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
