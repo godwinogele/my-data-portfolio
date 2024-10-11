@@ -59,7 +59,7 @@ sections:
           simplify complex data for stakeholders.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Microsoft-Power-BI-Logo-500x281 (1).jpg
           altText: Second item image
         actions:
           - type: Button
