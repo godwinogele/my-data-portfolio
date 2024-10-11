@@ -25,7 +25,7 @@
             {
                 "type": "Link",
                 "label": "Resume",
-                "url": "/",
+                "url": "",
                 "underline": "always",
                 "color": "primary"
             }
