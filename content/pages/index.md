@@ -119,10 +119,13 @@ sections:
             color: primary
       - type: Card
         title: Data Cleaning with Excel
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          This project involved cleaning and preparing a large dataset in Excel.
+          I tackled data quality issues such as missing values, formatting
+          inconsistencies, and outliers. By using Excel’s functions and data
+          validation tools, I ensured the dataset was structured and ready for
+          further analysis. This cleaned data set became the foundation for
+          accurate decision-making and analysis.
         image:
           type: Image
           url: /images/ts.svg
