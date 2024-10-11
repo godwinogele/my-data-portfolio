@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "",
+                "url": "/.",
                 "underline": "hover"
             }
         ]
