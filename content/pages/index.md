@@ -6,11 +6,8 @@ sections:
     title: Hero Title
     subtitle: ''
     text: >
-      I am a passionate tech professional with experience in **data analysis**,
-      **data visualization**, **accounting**, and **technical content writing**.
-      I enjoy solving complex problems and delivering innovative solutions. With
-      a strong foundation in various technologies, I aim to leverage my skills
-      in projects that make a difference.
+      Welcome to my portfolio! Here, you will find a showcase of my work,
+      skills, and the projects I've undertaken in the tech field.
     actions:
       - type: Button
         label: Start Building
