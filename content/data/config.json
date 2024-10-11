@@ -24,7 +24,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Resume",
                 "url": "/",
                 "underline": "none",
                 "color": "primary"
