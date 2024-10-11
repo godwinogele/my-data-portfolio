@@ -3,7 +3,7 @@ type: Page
 title: Home
 sections:
   - type: CardsSection
-    title: Featured Projects
+    title: Projects
     subtitle: >-
       This section highlights my journey and the various projects I’ve worked on
       to showcase my expertise in transforming data into valuable insights.
