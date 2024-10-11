@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "https://docs.netlify.com/visual-editor/overview/",
+                "url": "Featured Projects",
                 "underline": "hover"
             }
         ]
