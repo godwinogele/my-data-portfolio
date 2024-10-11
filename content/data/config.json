@@ -27,7 +27,7 @@
                 "label": "Learn more",
                 "url": "/",
                 "underline": "always",
-                "color": "inherit"
+                "color": "primary"
             }
         ]
     },
