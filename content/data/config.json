@@ -21,13 +21,6 @@
                 "label": "Projects",
                 "url": "/.",
                 "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "Resume",
-                "url": "/",
-                "underline": "always",
-                "color": "primary"
             }
         ]
     },
