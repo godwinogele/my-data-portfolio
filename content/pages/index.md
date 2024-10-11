@@ -104,10 +104,12 @@ sections:
         actions: []
       - type: Card
         title: YouTube Channel Data Scraping Project
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          In this project, I scraped data from a YouTube channel to gather
+          information on video durations, the number of views for regular
+          videos, and views for shorts. This analysis provided insights into
+          viewer engagement and content performance, aiding in strategic content
+          planning.
         image:
           type: Image
           url: /images/mui-5.svg
