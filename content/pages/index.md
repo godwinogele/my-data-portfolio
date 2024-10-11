@@ -93,10 +93,10 @@ sections:
       - type: Card
         title: Sales Data Analysis
         text: >
-          In this project, I utilized SQL to extract and analyze sales data,
-          followed by visualizing the findings with Power BI. The insights
-          generated from this analysis supported informed decision-making and
-          strategic planning for the business.
+          I used SQL to extract and analyze sales data, followed by visualizing
+          the findings with Power BI. The insights generated from this analysis
+          supported informed decision-making and strategic planning for the
+          business.
         image:
           type: Image
           url: /images/sales (1).jpg
