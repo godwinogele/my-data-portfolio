@@ -105,11 +105,12 @@ sections:
       - type: Card
         title: YouTube Channel Data Scraping Project
         text: >
-          In this project, I scraped data from a YouTube channel to gather
-          information on video durations, the number of views for regular
-          videos, and views for shorts. This analysis provided insights into
-          viewer engagement and content performance, aiding in strategic content
-          planning.
+          In this project, I utilized a no-code web scraper to extract data from
+          a YouTube channel. The scraping process captured key metrics,
+          including video durations, number of views for regular videos, and
+          views for Shorts. This data analysis provided valuable insights into
+          audience engagement and content performance, helping to identify
+          trends and inform future content strategies.
         image:
           type: Image
           url: /images/youtube-logo (1).jpeg
