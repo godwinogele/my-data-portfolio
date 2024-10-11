@@ -99,7 +99,7 @@ sections:
           strategic planning for the business.
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/sales (1).jpg
           altText: First item image
         actions:
           - type: Button
