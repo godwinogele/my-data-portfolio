@@ -4,9 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Hero Title
-    subtitle: >-
-      Welcome to my portfolio! Here, you will find a showcase of my work,
-      skills, and the projects I've undertaken in the tech field.
+    subtitle: ''
     text: >
       I am a passionate tech professional with experience in **data analysis**,
       **data visualization**, **accounting**, and **technical content writing**.
