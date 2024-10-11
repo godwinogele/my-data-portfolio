@@ -54,26 +54,4 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         actions: []
-  - type: CardsSection
-    title: Contact
-    subtitle: >-
-      Feel free to reach out to me for collaborations, inquiries, or just to
-      connect! You can email me at godwinogeleagwu@gmail.com.
-    items:
-      - type: Card
-        title: ''
-        text: ''
-        actions:
-          - type: Button
-            label: LINKEDIN
-            url: 'https://www.linkedin.com/in/godwin-agwu'
-            size: medium
-            variant: text
-            color: primary
-          - type: Button
-            label: GITHUB
-            url: 'https://github.com/godwinogele'
-            size: medium
-            variant: text
-            color: primary
 ---
