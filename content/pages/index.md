@@ -112,7 +112,7 @@ sections:
           planning.
         image:
           type: Image
-          url: /images/Omon channel banner (1).jpg
+          url: /images/youtube-logo (1).jpeg
           altText: Second item image
         actions:
           - type: Button
