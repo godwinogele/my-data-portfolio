@@ -112,7 +112,7 @@ sections:
           planning.
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Omon channel banner (1).jpg
           altText: Second item image
         actions:
           - type: Button
