@@ -129,7 +129,7 @@ sections:
           altText: Third item image
         actions:
           - type: Button
-            label: .
+            label: ''
             url: /
             size: medium
             variant: text
