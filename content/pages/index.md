@@ -75,9 +75,7 @@ sections:
           to support analysis.
         image:
           type: Image
-          url: >-
-            /images/SQL logo illustration, Microsoft Azure SQL Database
-            Microsoft SQL Server, database, blue, text png (1).jpeg
+          url: /images/sql (1).jpg
           altText: Third item image
         actions:
           - type: Button
