@@ -36,7 +36,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Copyri",
                 "underline": "hover",
                 "url": "/"
             },
