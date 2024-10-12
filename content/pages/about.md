@@ -15,33 +15,33 @@ sections:
     title: Key Experience
     subtitle: ''
     text: >+
-      *   **BlackCountry Farms**: Analyzed sales data, tracked trends, and
-      provided reports to support business decisions related to sales
-      performance and operations.
+      *   **BlackCountry Farms (2022 - 2024)**: Analyzed sales data, tracked
+      trends, and provided reports to support business decisions related to
+      sales performance and operations.
 
 
       <!---->
 
 
-      *   **HNG Internship**: Developed expertise in analyzing large datasets,
-      creating visual dashboards, and delivering insights for improved
+      *   **HNG Internship (2024)**: Developed expertise in analyzing large
+      datasets, creating visual dashboards, and delivering insights for improved
       decision-making.
 
 
       <!---->
 
 
-      *   **Techrity**: Wrote engaging and informative tech content for their
-      blog, helping demystify complex technology concepts for a broader
-      audience.
+      *   **Techrity (2023 - date)**: Wrote engaging and informative tech
+      content for their blog, helping demystify complex technology concepts for
+      a broader audience.
 
 
       <!---->
 
 
-      *   **MentorMeInTech**: Contributed to building a mentorship platform to
-      support aspiring tech professionals, driving engagement through events and
-      community-building activities.
+      *   **MentorMeInTech (2023 - date)**: Contributed to building a mentorship
+      platform to support aspiring tech professionals, driving engagement
+      through events and community-building activities.
 
     actions:
       - type: Button
