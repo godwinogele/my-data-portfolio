@@ -8,13 +8,7 @@ sections:
     text: >
       Welcome to my portfolio! Here, you will find a showcase of my work,
       skills, and the projects I've completed.
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/DA.webp
