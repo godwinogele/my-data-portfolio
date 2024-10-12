@@ -12,7 +12,7 @@ sections:
       a strong foundation in various technologies, I aim to leverage my skills
       in projects that make a difference.
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: Key Experience
     subtitle: The section subtitle
     text: >+
       *   **BlackCountry Farms**: Analyzed sales data, tracked trends, and
