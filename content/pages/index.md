@@ -23,7 +23,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/DA.webp
       altText: Hero section image
   - type: CardsSection
     title: Technical Skills Overview
