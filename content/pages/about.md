@@ -12,28 +12,36 @@ sections:
       a strong foundation in various technologies, I aim to leverage my skills
       in projects that make a difference.
   - type: HeroSection
-    title: This Is A Big Hero Headline
-    subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
-    image:
-      type: Image
-      url: /images/hero.svg
-      altText: Hero section image
+    title: Key Experience
+    subtitle: ''
+    text: >+
+      *   **BlackCountry Farms (2022 - 2024)**: Analyzed sales data, tracked
+      trends, and provided reports to support business decisions related to
+      sales performance and operations.
+
+
+      <!---->
+
+
+      *   **HNG Internship (2024)**: Developed expertise in analyzing large
+      datasets, creating visual dashboards, and delivering insights for improved
+      decision-making.
+
+
+      <!---->
+
+
+      *   **Techrity (2023 - date)**: Wrote engaging and informative tech
+      content for their blog, helping demystify complex technology concepts for
+      a broader audience.
+
+
+      <!---->
+
+
+      *   **MentorMeInTech (2023 - date)**: Contributed to building a mentorship
+      platform to support aspiring tech professionals, driving engagement
+      through events and community-building activities.
+
+    actions: []
 ---
