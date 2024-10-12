@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: Hi!
     subtitle: ''
     text: >
       Welcome to my portfolio! Here, you will find a showcase of my work,
