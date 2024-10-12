@@ -5,18 +5,8 @@ sections:
   - type: HeroSection
     title: ''
     subtitle: ''
-    text: >
-      ***
-
-
-      ***
-
-
-      ***
-
-
-      Welcome to my portfolio!
-
+    text: >2
+                                                                                                                                                                                                                                                                                               Welcome to my portfolio!
 
       Here, you will find a showcase of my work, skills, and the projects I've
       completed.
