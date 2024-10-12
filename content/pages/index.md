@@ -6,20 +6,20 @@ sections:
     title: ''
     subtitle: ''
     text: >
-      ****
+      ***
 
 
-      ****
+      ***
 
 
-      ****
+      ***
 
 
-      **Welcome to my portfolio!**
+      Welcome to my portfolio!
 
 
-      **Here, you will find a showcase of my work, skills, and the projects I've
-      completed.**
+      Here, you will find a showcase of my work, skills, and the projects I've
+      completed.
     actions: []
     image:
       type: Image
