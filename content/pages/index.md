@@ -153,4 +153,10 @@ sections:
             size: medium
             variant: text
             color: primary
+          - type: Button
+            label: EMAIL
+            url: godwinogele96@gmail.com
+            size: medium
+            variant: text
+            color: primary
 ---
