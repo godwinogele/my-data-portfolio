@@ -45,12 +45,6 @@ sections:
 
     actions:
       - type: Button
-        label: ''
-        url: 'https://docs.netlify.com/visual-editor/get-started'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
