@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "Godwin's portfolio",
+        "title": "                Godwin's portfolio",
         "navLinks": [
             {
                 "type": "Link",
