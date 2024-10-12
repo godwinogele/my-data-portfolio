@@ -13,7 +13,7 @@ sections:
       in projects that make a difference.
   - type: HeroSection
     title: Key Experience
-    subtitle: The section subtitle
+    subtitle: ''
     text: >+
       *   **BlackCountry Farms**: Analyzed sales data, tracked trends, and
       provided reports to support business decisions related to sales
