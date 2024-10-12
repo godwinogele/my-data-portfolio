@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Godwin's portfolio
 type: Page
 sections:
   - type: HeroSection
