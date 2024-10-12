@@ -155,7 +155,7 @@ sections:
             color: primary
           - type: Button
             label: MEDIUM BLOG
-            url: godwinogele96@gmail.com
+            url: 'https://medium.com/@godwinogele'
             size: medium
             variant: text
             color: primary
