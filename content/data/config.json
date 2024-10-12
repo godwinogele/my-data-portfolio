@@ -36,12 +36,6 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "",
-                "underline": "none",
-                "url": ""
-            },
-            {
-                "type": "Link",
                 "label": "Copyright © Godwin A. 2024",
                 "underline": "hover",
                 "url": ""
