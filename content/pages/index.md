@@ -154,7 +154,7 @@ sections:
             variant: text
             color: primary
           - type: Button
-            label: MEDIUM BLOG
+            label: MEDIUM
             url: 'https://medium.com/@godwinogele'
             size: medium
             variant: text
