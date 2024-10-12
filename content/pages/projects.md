@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Projects
+title: projects
 sections:
   - type: CardsSection
     title: Projects
