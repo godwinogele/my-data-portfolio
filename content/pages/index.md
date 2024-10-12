@@ -6,6 +6,15 @@ sections:
     title: ''
     subtitle: ''
     text: >
+      ****
+
+
+      ****
+
+
+      ****
+
+
       **Welcome to my portfolio!**
 
 
