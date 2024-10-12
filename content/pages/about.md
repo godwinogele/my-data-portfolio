@@ -14,11 +14,35 @@ sections:
   - type: HeroSection
     title: This Is A Big Hero Headline
     subtitle: The section subtitle
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      *   **BlackCountry Farms**: Analyzed sales data, tracked trends, and
+      provided reports to support business decisions related to sales
+      performance and operations.
+
+
+      <!---->
+
+
+      *   **HNG Internship**: Developed expertise in analyzing large datasets,
+      creating visual dashboards, and delivering insights for improved
+      decision-making.
+
+
+      <!---->
+
+
+      *   **Techrity**: Wrote engaging and informative tech content for their
+      blog, helping demystify complex technology concepts for a broader
+      audience.
+
+
+      <!---->
+
+
+      *   **MentorMeInTech**: Contributed to building a mentorship platform to
+      support aspiring tech professionals, driving engagement through events and
+      community-building activities.
+
     actions:
       - type: Button
         label: Start Building
