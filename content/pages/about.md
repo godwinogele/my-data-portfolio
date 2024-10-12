@@ -43,11 +43,5 @@ sections:
       platform to support aspiring tech professionals, driving engagement
       through events and community-building activities.
 
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
 ---
