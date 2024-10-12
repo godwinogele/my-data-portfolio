@@ -154,7 +154,7 @@ sections:
             variant: text
             color: primary
           - type: Button
-            label: EMAIL
+            label: MEDIUM BLOG
             url: godwinogele96@gmail.com
             size: medium
             variant: text
