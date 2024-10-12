@@ -6,8 +6,11 @@ sections:
     title: Hi!
     subtitle: ''
     text: >
-      Welcome to my portfolio! Here, you will find a showcase of my work,
-      skills, and the projects I've completed.
+      Welcome to my portfolio!
+
+
+      Here, you will find a showcase of my work, skills, and the projects I've
+      completed.
     actions: []
     image:
       type: Image
